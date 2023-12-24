@@ -6,7 +6,7 @@
   "va":{
     "report_server":{
       "enabled": false,
-      "host": "api.stableapproach.net",
+      "host": "crewconnect.sunexpressvirtual.com",
       "target": "/report",
       "semver": {
         "min": "1.1.0",
